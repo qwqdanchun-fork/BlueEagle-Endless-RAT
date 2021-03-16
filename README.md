@@ -8,7 +8,8 @@
 
 this is a cross platform RAT tool (java RAT) / (jRAT) which is { [Windows RAT] [Linux RAT] [MAC RAT] } which is fully programmed in java be a user friendly and easy to use and builds out trojans (.jar) and controls the victims running those trojans on same port at same time ,this tool is fully in java (Client & Server in java) and this tool is now registerd to be free , and on the user responsibility 
 
-
+# NOTE jar trojan options only for windows { as well as linux / MAC} , and for exe Trojan {Network Exploitation options}
+# please understand the above note , as well as any stupid issue regarding that note will be removed
 # 🏳 This is For Educational Purposes Only ! and User is responsible for his usage of this Tool  🔞
 
 For Example : 
