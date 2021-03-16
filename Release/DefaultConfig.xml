@@ -1,0 +1,22 @@
+<config>
+<Start>
+<Standard Version = '1.0'></Standard Version>
+<Update Version = '1.0'></Update Version>
+<Update Version = '1.0'></Update Version>
+<String Values =""
+set Values = "_
+jname=Saher Blue Eagle Endless Tool
+jupdate=1.0
+jversion=1.0
+joptions=None
+jupdatestatus=Critical
+              _"></String>
+
+<Array RAT_Profiles = "_
+                       admin
+                       admin
+                       81
+                       User_Settings_
+                       Saved_Settings_"></Array>
+<End>
+</config>
